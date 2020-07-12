@@ -1,6 +1,16 @@
 Hello!
 
-This are the steps to inicialize this proyect.
+This proyect is made using:
+React
+React-redux
+Sequelize
+Node
+Webpack
+Babbel
+...
+
+
+These are the steps to inicialize this proyect.
 
 1) Go to Back and Front and run the following commands:
     npm i  
