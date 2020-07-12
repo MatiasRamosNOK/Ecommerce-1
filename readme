@@ -17,7 +17,7 @@ These are the steps to inicialize this proyect.
 2) After that go to Back and run:
     npm run seed
     npm start
-3) Now the server should be running on port 3000, so go to the browser and navigate to localhost:3000
+3) Now the server should be running on port 3000.
 4) Now go to Front and run:
     npm start
 5) Wait until webpack finish and after that you can navigate to localhost:3000.
